@@ -6,7 +6,5 @@ times.add("Vasco")
 times.add("Palmeiras")
 times.add("Fluminense")
 times.add("São Paulo")
-
-
 console.log(times)
 console.log(times.size)
