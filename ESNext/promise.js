@@ -31,10 +31,10 @@ obterDadosAssincronos()
     console.error(erro);
   });
 
-
 //   Neste exemplo:
-
 // obterDadosAssincronos é uma função que retorna uma Promise.
 // resolve é chamado quando a operação assíncrona é bem-sucedida, e reject é chamado quando há um erro.
 // O método .then é usado para lidar com o caso de sucesso, enquanto o método .catch é usado para lidar com a rejeição.
 // Promises podem ser encadeadas usando múltiplos .then para criar uma sequência de operações assíncronas. Além disso, a introdução de async/await no ECMAScript 2017 simplificou ainda mais o tratamento de Promises, tornando o código mais legível e fácil de entender.
+
+
