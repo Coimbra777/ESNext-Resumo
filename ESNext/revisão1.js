@@ -43,11 +43,4 @@ function total(...numeros){
 
 console.log(total(10 ,10))
 
-// objetos
-// notação literal
-const nome = 'Carla'
-const pessoa = {
-  nome,
-}
 
-console.log(pessoa.nome)
