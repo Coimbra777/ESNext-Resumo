@@ -1,5 +1,4 @@
-// aqui começa o módulo de Node.js
-// modulos em Node.js
+//modulo.js
 
 module.exports = {
   bomDia: 'Bom dia ',
